@@ -1,0 +1,19 @@
+/* Your Website Styles */
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+
+h1{
+	font-family: 'Cinzel', serif;
+}
+
+h3{
+	font-family: 'Cinzel', serif;
+}
+
+p{
+	font-family: 'Josefin Slab', serif;
+}
